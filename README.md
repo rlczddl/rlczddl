@@ -3,5 +3,5 @@
   
  ![Hypochondria](qrcode_for_gh_435d4d80255a_258.jpg)
  
-- 知乎：https://www.zhihu.com/people/yang-shi-lei-62-72 汇总了所有文章
+- 知乎：https://www.zhihu.com/people/yang-shi-lei-62-72 
 - csdn: https://blog.csdn.net/rlczddl?type=blog
